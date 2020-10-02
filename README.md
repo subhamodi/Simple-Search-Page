@@ -11,7 +11,8 @@
   <a href="https://github.com/616620131/Simple-Search-Page/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/616620131/Simple-Search-Page?style=social"></a>
 </p>
 
-# bye
+# bye bye
+#vist again
 由于大量使用者不尊重版权，自私的去除所有版权信息（github开源地址都不留下痕迹，甚至某些资源站拿源码收费下载），本项目开源版现停止维护。
 
 releases仍提供1.4.2及以下版本下载，有需要请自己修改。
